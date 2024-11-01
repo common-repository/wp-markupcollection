@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-markup-collection\n"
+"POT-Creation-Date: 2014-04-11 01:42+0900\n"
+"PO-Revision-Date: 2014-04-11 01:45+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: wpmc__;wpmc_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lib/pages/option-admin-page.tmpl.php:3
+msgid "normal, high priority"
+msgstr "通常, 優先度高"
+
+#: ../lib/pages/option-admin-page.tmpl.php:4
+msgid "normal, low priority"
+msgstr "通常, 優先度低"
+
+#: ../lib/pages/option-admin-page.tmpl.php:5
+msgid "advanced, high priority"
+msgstr "詳細, 優先度高"
+
+#: ../lib/pages/option-admin-page.tmpl.php:6
+msgid "advanced, low priority"
+msgstr "詳細, 優先度低"
+
+#: ../lib/pages/option-admin-page.tmpl.php:7
+msgid "side, high priority"
+msgstr "サイド, 優先度高"
+
+#: ../lib/pages/option-admin-page.tmpl.php:8
+msgid "side, low priority"
+msgstr "サイド, 優先度低"
+
+#: ../lib/pages/option-admin-page.tmpl.php:18
+msgid "General Settings"
+msgstr "一般設定"
+
+#: ../lib/pages/option-admin-page.tmpl.php:21
+msgid "Widget location"
+msgstr "ウィジェット位置"
+
+#: ../lib/pages/option-admin-page.tmpl.php:24
+#: ../lib/pages/option-admin-page.tmpl.php:54
+#: ../lib/pages/post-admin-page.tmpl.php:4
+#: ../lib/pages/post-admin-page.tmpl.php:15
+msgid "none"
+msgstr "なし"
+
+#: ../lib/pages/option-admin-page.tmpl.php:36
+msgid "Filter Settings"
+msgstr "フィルタ設定"
+
+#: ../lib/pages/option-admin-page.tmpl.php:39
+msgid "Filters"
+msgstr "フィルタ"
+
+#: ../lib/pages/option-admin-page.tmpl.php:45
+msgid "Lines beginning with # are comments."
+msgstr "＃で始まる行はコメントです。"
+
+#: ../lib/pages/option-admin-page.tmpl.php:51
+msgid "Default filter"
+msgstr "標準フィルタ"
+
+#: ../lib/pages/option-admin-page.tmpl.php:65
+msgid "About filters"
+msgstr "フィルタについて"
+
+#: ../lib/pages/option-admin-page.tmpl.php:68
+msgid "Available filter commands"
+msgstr "使用可能なフィルタコマンド"
+
+#: ../lib/pages/option-admin-page.tmpl.php:73
+msgid "internal"
+msgstr "内蔵"
+
+#: ../lib/pages/option-admin-page.tmpl.php:76
+msgid "Installed"
+msgstr "インストール済み"
+
+#: ../lib/pages/option-admin-page.tmpl.php:78
+msgid "Need to install"
+msgstr "インストールが必要"
+
+#: ../lib/pages/option-admin-page.tmpl.php:88
+#, php-format
+msgid "Current PHP Version: %s"
+msgstr "現在のPHPバージョン: %s"
+
+#: ../lib/pages/option-admin-page.tmpl.php:91
+msgid "Filter commands search path"
+msgstr "フィルタコマンド検索パス"
+
+#: ../lib/pages/option-admin-page.tmpl.php:97
+msgid ""
+"If you want to use other filter, please refer to \"custom.example.php\" of "
+"plugin directory."
+msgstr ""
+"その他のフィルタを使用したい場合はプラグインディレクトリの \"custom.example."
+"php\" を参照してください。"
+
+#: ../lib/pages/option-admin-page.tmpl.php:102
+msgid "Fenced code block Settings"
+msgstr "Fenced code block 設定"
+
+#: ../lib/pages/option-admin-page.tmpl.php:103
+msgid "Settings for apply syntax highlighter."
+msgstr "シンタックスハイライターを適用するための設定"
+
+#: ../lib/pages/option-admin-page.tmpl.php:106
+msgid "Template"
+msgstr "テンプレート"
+
+#: ../lib/pages/option-admin-page.tmpl.php:114
+msgid "Example"
+msgstr "例"
+
+#: ../lib/pages/option-admin-page.tmpl.php:123
+msgid "Default LANG"
+msgstr "デフォルト LANG"
+
+#: ../lib/pages/option-admin-page.tmpl.php:128
+#: ../lib/pages/option-admin-page.tmpl.php:138
+#: ../lib/pages/option-admin-page.tmpl.php:148
+#: ../lib/pages/option-admin-page.tmpl.php:162
+#: ../lib/pages/option-admin-page.tmpl.php:177
+#: ../lib/pages/option-admin-page.tmpl.php:190
+#: ../lib/pages/option-admin-page.tmpl.php:204
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../lib/pages/option-admin-page.tmpl.php:129
+msgid "Use when language not specified."
+msgstr "言語が指定されていない場合に使用します。"
+
+#: ../lib/pages/option-admin-page.tmpl.php:133
+msgid "Decode character entity reference"
+msgstr "文字実体参照をデコードする"
+
+#: ../lib/pages/option-admin-page.tmpl.php:138
+#: ../lib/pages/option-admin-page.tmpl.php:148
+#: ../lib/pages/option-admin-page.tmpl.php:177
+msgid "Off"
+msgstr "オフ"
+
+#: ../lib/pages/option-admin-page.tmpl.php:139
+msgid "Decode \"&amp;lt;\", \"&amp;amp;\" etc."
+msgstr "\"&amp;lt;\" \"&amp;amp;\" 等を復号します。"
+
+#: ../lib/pages/option-admin-page.tmpl.php:143
+msgid "Decode numeric character reference"
+msgstr "数値文字参照をデコードする"
+
+#: ../lib/pages/option-admin-page.tmpl.php:149
+msgid "Decode \"&amp;#39;\", etc."
+msgstr "\"&amp;#39;\" 等を復号します。"
+
+#: ../lib/pages/option-admin-page.tmpl.php:154
+msgid "Advanced Settings"
+msgstr "詳細設定"
+
+#: ../lib/pages/option-admin-page.tmpl.php:157
+msgid "Enable cache"
+msgstr "キャッシュを有効にする"
+
+#: ../lib/pages/option-admin-page.tmpl.php:162
+msgid "On"
+msgstr "オン"
+
+#: ../lib/pages/option-admin-page.tmpl.php:164
+msgid "Cache will be used to avoid execute unnecessary filter."
+msgstr "キャッシュは不要なフィルタの実行を避けるために使用されます。"
+
+#: ../lib/pages/option-admin-page.tmpl.php:167
+msgid "Cache will be stored to hidden custom field of posts."
+msgstr "キャッシュは投稿の非表示のカスタムフィールドに保存されます。"
+
+#: ../lib/pages/option-admin-page.tmpl.php:173
+msgid "Delete cache"
+msgstr "キャッシュを削除する"
+
+#: ../lib/pages/option-admin-page.tmpl.php:179
+#, php-format
+msgid "Number of cache: %d"
+msgstr "キャッシュの数: %d"
+
+#: ../lib/pages/option-admin-page.tmpl.php:185
+msgid "Filter priority"
+msgstr "フィルタ優先度"
+
+#: ../lib/pages/option-admin-page.tmpl.php:195
+msgid "PHPRunner execution method"
+msgstr "PHPRunner 実行方法"
+
+#: ../lib/pages/option-admin-page.tmpl.php:206
+msgid "post: Execute filter via HTTP POST internally."
+msgstr "post: 内部的にHTTP POST経由でフィルタを実行"
+
+#: ../lib/pages/option-admin-page.tmpl.php:209
+msgid "exec: Execute filter as an external script. (Require php cli)"
+msgstr "exec: 外部スクリプトとしてフィルタを実行 (php cliが必要)"
+
+#: ../lib/pages/option-admin-page.tmpl.php:216
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: ../lib/pages/post-admin-page.tmpl.php:2
+msgid "Filter"
+msgstr "フィルタ"
+
+#: ../lib/pages/post-admin-page.tmpl.php:11
+#: ../lib/pages/post-admin-page.tmpl.php:16
+msgid "custom"
+msgstr "カスタム"
+
+#: ../lib/pages/post-admin-page.tmpl.php:15
+msgid "Don't use WP-MarkupCollection."
+msgstr "WP-MarkupCollectionを使用しない"
+
+#: ../lib/pages/post-admin-page.tmpl.php:16
+msgid "See Custom Fields."
+msgstr "カスタムフィールドを参照"
+
+#: ../lib/pages/post-admin-page.tmpl.php:21
+msgid "Convert HTML on Save"
+msgstr "保存時にHTMLに変換する"
+
+#: ../wp-markup-collection.php:73
+msgid ""
+"This plugin allows you to write posts using Markdown, MediaWiki, "
+"reStructuredText, Textile, etc. and user created custom filter."
+msgstr ""
+"Markdown, MediaWiki, reStructuredText, Textile, LaTeX、そしてユーザー作成のカ"
+"スタムフィルタを使って投稿することができます。"
